@@ -1,0 +1,28 @@
+Drill report for waveform_generator.kicad_pcb
+Created on 2024-09-29T15:37:32+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'waveform_generator-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (1 hole)
+    T2  0.400mm  0.0157"  (32 holes)
+    T3  0.714mm  0.0281"  (9 holes)
+    T4  0.800mm  0.0315"  (10 holes)
+    T5  1.000mm  0.0394"  (14 holes)
+    T6  1.300mm  0.0512"  (2 holes)
+    T7  2.200mm  0.0866"  (4 holes)
+
+    Total plated holes count 72
+
+
+Drill file 'waveform_generator-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
